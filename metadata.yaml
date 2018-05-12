@@ -1,0 +1,24 @@
+_repo: Alocu--o-ao-Senhor-Presidente-da-Rep-blica_34621
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Oliveira, João Duarte
+    gutenberg_agent_id: '37127'
+    url: http://www.gutenberg.org/2009/agents/37127
+description: ''
+gutenberg_issued: '2010-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34621'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Speeches, addresses, etc., Portuguese'
+title: Alocução ao Senhor Presidente da República
+url: http://www.gutenberg.org/ebooks/34621
