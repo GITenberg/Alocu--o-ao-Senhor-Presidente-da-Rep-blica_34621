@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '37127'
     url: http://www.gutenberg.org/2009/agents/37127
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34621#Alocu--o-ao-Senhor-Presidente-da-Rep-blica
 gutenberg_issued: '2010-12-11'
 gutenberg_type: Text
 identifiers:
